@@ -54,6 +54,18 @@ Seismic-XR help us to understand seismic wave propagation and its impact. By int
 
 ---
 
+## 📍 **Study Area**
+The project focuses on the Himalayan region, known for its complex geology and high seismic activity. Below are visuals of the study area:
+
+<p align="center">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/b689c4093fb613a97edd17bf440f6fb54875ce64/Assets/gitHubReadme/study%20region.jpg" alt="Feature 1"  height="200">
+   
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/b689c4093fb613a97edd17bf440f6fb54875ce64/Assets/gitHubReadme/studyRegion.jpg" alt="Feature 2"  height="200">
+</p>
+
+---
+
+
 ## 📸 **Visual Showcase**
 <p align="center">
   <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/7b1bcf9e9d8a78dfe983751a3488c85c6324156d/Assets/ResizedGifs2/2.gif" alt="Feature 1" width="384" height="216">
@@ -76,9 +88,9 @@ Seismic-XR help us to understand seismic wave propagation and its impact. By int
 
 ## 👨‍💻 **About the Developer**
 **Shashank Vaibhav**  
-An AR/VR enthusiast with a strong passion for geophysical and XR technologies. With experience in seismic modeling, mixed reality development, and immersive UI/UX design, Shashank aims to combine innovative technology with education and research.  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shashank-vaibhav/)
-- 🌐 [GitHub](https://github.com/Shashank-Vaibhav)
+An XR enthusiast. With experience in Mixed Reality, Virtual Reality development, immersive UI/UX design and 3D Animation and Modelling, I aim to combine innovative technology with education and research.  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashankvaibhav/)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashank-Vaibhav)
 
 ---
 
