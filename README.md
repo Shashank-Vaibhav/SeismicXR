@@ -22,7 +22,7 @@ Seismic-XR help us to understand seismic wave propagation and its impact. By int
 - Utilizes the computational power of **SPECFEM3D** for accurate simulations.
 
 ### 🕶️ **Immersive Mixed Reality Experience**
-- Full support for **OpenXR** and **XR Interaction Toolkit 3.0**.
+- Full support for **OpenXR** using **XR Interaction Toolkit 3.0**.
 - Intuitive navigation and interactions for effortless exploration and detailed study.
 
 ---
@@ -32,11 +32,11 @@ Seismic-XR help us to understand seismic wave propagation and its impact. By int
 
 | Tool/Software | Logo |
 | ------------- | ----- |
-| **QGIS**      | ![QGIS Logo](https://upload.wikimedia.org/wikipedia/commons/3/34/QGIS_logo_new.svg) |
-| **SPECFEM3D** | ![SPECFEM Logo](https://specfem.org/images/specfemlogo.png) |
+| **QGIS**      | ![QGIS Logo](https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/604557565510757bfdd9dc29205f939fa18aa4bf/Assets/gitHubReadme/qgis.png) |
+| **SPECFEM3D** | ![SPECFEM Logo](https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/604557565510757bfdd9dc29205f939fa18aa4bf/Assets/gitHubReadme/specfem_3d_globe-cover%202.png) |
 | **Unity**     | ![Unity Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg) |
-| **USGS SRTM Data** | ![USGS Logo](https://upload.wikimedia.org/wikipedia/commons/e/e2/USGS_logo.png) |
-| **XR Interaction Toolkit** | ![XR Toolkit](https://upload.wikimedia.org/wikipedia/commons/6/69/OpenXR_Logo.png) |
+| **USGS SRTM Data** | ![USGS Logo](https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/604557565510757bfdd9dc29205f939fa18aa4bf/Assets/gitHubReadme/USGS_logo_green.svg.png) |
+| **Figma** | ![Figma](https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/604557565510757bfdd9dc29205f939fa18aa4bf/Assets/gitHubReadme/figma-logo-512.webp) |
 
 </div>
 
@@ -49,7 +49,7 @@ Seismic-XR help us to understand seismic wave propagation and its impact. By int
    - High-resolution Digital Elevation Maps from **SRTM data** were modeled using **QGIS**.
 3. **Mixed Reality Integration**:
    - Imported models into **Unity** and developed immersive interactions using the **XR Interaction Toolkit**.
-   - Designed an intuitive **UI** and implemented advanced features like **plane detection** for enhanced usability.
+   - Designed an intuitive **UI** using **Figma** and leveraged advanced features like **plane detection** for enhanced usability.
 
 ---
 
@@ -68,7 +68,8 @@ Seismic-XR help us to understand seismic wave propagation and its impact. By int
   <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/4b55c0342a033489c12c53bc7986d91165058d99/Assets/ResizedGifs2/1.gif" alt="Seismic-XR Video" width="720" height="360" style="border-radius: 15px; border: 2px solid #FF8800;">
 </a>
 
-**Click the image to watch it on YouTube!**
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/aJrw8ewi298?feature=shared)
+
 
 ---
 
