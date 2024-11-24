@@ -1,3 +1,3 @@
 ![Banner](https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/52fc00d4ee8ec6366efef4c6f799f2312fc978c9/Assets/gitHubReadme/Readme%20Banner.png)
 # 🌍 **Seismic-XR: Simulating and Visualizing Seismic Ground Motions in Mixed Reality** 
- Ground Motion Visualisation in Mixed Reality
+> “In this project, we developed an interactive mixed reality experience to visualize seismic wave ground motion and its velocity model of Himalayan Region. This immersive approach enhances understanding and provides a comprehensive perspective on the impact of seismic activity over large areas, aiding in both research and education, using SPECFEM3D, Unity, and QGIS.”
