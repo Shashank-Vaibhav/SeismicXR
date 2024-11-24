@@ -30,13 +30,14 @@ Seismic-XR help us to understand seismic wave propagation and its impact. By int
 ## 🛠️ **Software and Tools Used**
 <div align="center">
 
-| Tool/Software | Logo |
-| ------------- | ----- |
-| **QGIS**      | ![QGIS Logo](https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/604557565510757bfdd9dc29205f939fa18aa4bf/Assets/gitHubReadme/qgis.png) |
-| **SPECFEM3D** | ![SPECFEM Logo](https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/604557565510757bfdd9dc29205f939fa18aa4bf/Assets/gitHubReadme/specfem_3d_globe-cover%202.png) |
-| **Unity**     | ![Unity Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg) |
-| **USGS SRTM Data** | ![USGS Logo](https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/604557565510757bfdd9dc29205f939fa18aa4bf/Assets/gitHubReadme/USGS_logo_green.svg.png) |
-| **Figma** | ![Figma](https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/604557565510757bfdd9dc29205f939fa18aa4bf/Assets/gitHubReadme/figma-logo-512.webp) |
+| Tool/Software   | Logo |
+| --------------- | ----- |
+| **QGIS**        | <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/604557565510757bfdd9dc29205f939fa18aa4bf/Assets/gitHubReadme/qgis.png" alt="QGIS Logo" height="50"> |
+| **SPECFEM3D**   | <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/604557565510757bfdd9dc29205f939fa18aa4bf/Assets/gitHubReadme/specfem_3d_globe-cover%202.png" alt="SPECFEM Logo" height="50"> |
+| **Unity**       | <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/b689c4093fb613a97edd17bf440f6fb54875ce64/Assets/gitHubReadme/unity%20logo.jpg" alt="Unity Logo" height="50"> |
+| **USGS SRTM Data** | <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/604557565510757bfdd9dc29205f939fa18aa4bf/Assets/gitHubReadme/USGS_logo_green.svg.png" alt="USGS Logo" height="50"> |
+| **Figma**       | <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/604557565510757bfdd9dc29205f939fa18aa4bf/Assets/gitHubReadme/figma-logo-512.webp" alt="Figma Logo" height="50"> |
+
 
 </div>
 
