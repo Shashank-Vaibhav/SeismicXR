@@ -72,6 +72,9 @@ The project focuses on the Himalayan region, known for its complex geology and h
   <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/7b1bcf9e9d8a78dfe983751a3488c85c6324156d/Assets/ResizedGifs2/3.gif" alt="Feature 2" width="384" height="216">
   <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/7b1bcf9e9d8a78dfe983751a3488c85c6324156d/Assets/ResizedGifs2/4.gif" alt="Feature 3" width="384" height="216">
   <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/7b1bcf9e9d8a78dfe983751a3488c85c6324156d/Assets/ResizedGifs2/5.gif" alt="Feature 4" width="384" height="216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/199620f1d64f3da0132ab4556ac0acb1091755a8/Assets/gitHubReadme/UserInteraction2%20(1).jpg" alt="Feature 5" width="384" height="216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/199620f1d64f3da0132ab4556ac0acb1091755a8/Assets/gitHubReadme/VideoTexture.png" alt="Feature 6" width="384" height="216">
+  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/199620f1d64f3da0132ab4556ac0acb1091755a8/Assets/gitHubReadme/VisualOutput.png" alt="Feature 7" width="384" height="216">
 </p>
 
 ---
@@ -82,6 +85,7 @@ The project focuses on the Himalayan region, known for its complex geology and h
 </a>
 
 [![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/aJrw8ewi298?feature=shared)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=D_JTtSEDuOw)
 
 
 ---
