@@ -57,10 +57,12 @@ Seismic-XR help us to understand seismic wave propagation and its impact. By int
 ## 📍 **Study Area**
 The project focuses on the Himalayan region, known for its complex geology and high seismic activity. Below are visuals of the study area:
 
-<p align="center" href="https://maps.app.goo.gl/tsCBsLrh6vroinye9">
-  <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/777ee32b642158a9a7be1abc22463b4ed7a097a9/Assets/study%20area.png" alt="Feature 1"  height="200">
-   
+<p align="center">
+  <a href="https://maps.app.goo.gl/tsCBsLrh6vroinye9" target="_blank">
+    <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/777ee32b642158a9a7be1abc22463b4ed7a097a9/Assets/study%20area.png" alt="Feature 1" height="200">
+  </a>
 </p>
+
 
 ---
 
