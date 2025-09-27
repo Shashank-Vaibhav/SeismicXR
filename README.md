@@ -89,6 +89,8 @@ The project focuses on the Himalayan region, known for its complex geology and h
 <a href="https://www.youtube.com/watch?v=D_JTtSEDuOw">
   <img src="https://github.com/Shashank-Vaibhav/Shashank-Vaibhav/blob/199620f1d64f3da0132ab4556ac0acb1091755a8/Assets/gitHubReadme/VideoTexture.png" alt="Seismic-XR Video" width="720" height="360" style="border-radius: 15px; border: 2px solid #FF8800;">
 </a>
+
+
 [![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=D_JTtSEDuOw)
 
 
